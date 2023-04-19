@@ -1,0 +1,10 @@
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\bin\Debug\vyjimky2.exe.config
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\bin\Debug\vyjimky2.exe
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\bin\Debug\vyjimky2.pdb
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.csprojAssemblyReference.cache
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.Form1.resources
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.exe
+C:\Users\syrovym.05\source\repos\vyjimky2\vyjimky2\obj\Debug\vyjimky2.pdb
